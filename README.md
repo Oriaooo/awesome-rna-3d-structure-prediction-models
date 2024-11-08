@@ -1,8 +1,14 @@
-# 🧬 Awesome RNA 3D structure prediction models
+<h1 align="center">
+🧬 Awesome RNA 3D structure prediction models
+</h1>
+
+<div align="center">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 Predicting the **3D structure** of **RNA molecules** is a challenging task due to limited training data and RNA specificities, but could lead to a better understanding of its functions and to the creation of new therapeutics. This repository aims to maintain a curated list of **awesome deep learning methods** to predict RNA 3D structure. 
 
-    ⭐ Don't hesitate to open an issue or submit a pull request if you would like to add a paper or resource!
+<pre>⭐ Don't hesitate to open an issue or submit a pull request if you would like to add a paper or resource!</pre>
 
 - [Databanks and datasets](#-databanks-and-datasets)
 - [Models](#-models)
