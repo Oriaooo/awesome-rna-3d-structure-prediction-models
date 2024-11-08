@@ -5,7 +5,7 @@
 
 Predicting the **3D structure** of **RNA molecules** is a challenging task due to limited training data and RNA specificities, but could lead to a better understanding of its functions and to the creation of new therapeutics. This repository aims to maintain a curated list of **awesome deep learning methods** to predict RNA 3D structure.
 
-Note that we do not include scoring functions or inverse folding methods, which are seen as a different topics. 
+> Note that we do not include scoring functions or inverse folding methods, which are seen as a different topics. 
 
 <pre>⭐ Don't hesitate to open an issue or submit a pull request if you would like to add a paper or resource!</pre>
 
