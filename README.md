@@ -3,7 +3,9 @@
 
 </br>
 
-Predicting the **3D structure** of **RNA molecules** is a challenging task due to limited training data and RNA specificities, but could lead to a better understanding of its functions and to the creation of new therapeutics. This repository aims to maintain a curated list of **awesome deep learning methods** to predict RNA 3D structure. 
+Predicting the **3D structure** of **RNA molecules** is a challenging task due to limited training data and RNA specificities, but could lead to a better understanding of its functions and to the creation of new therapeutics. This repository aims to maintain a curated list of **awesome deep learning methods** to predict RNA 3D structure.
+
+Note that we do not include scoring functions or inverse folding methods, which are seen as a different topics. 
 
 <pre>⭐ Don't hesitate to open an issue or submit a pull request if you would like to add a paper or resource!</pre>
 
@@ -54,11 +56,6 @@ Researchers often use their own methods to build datasets, separating between tr
 
     [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.sciencedirect.com/science/article/abs/pii/S0006349523006471) 
     [![](https://img.shields.io/badge/Code-black?logo=BitBucket&labelColor=grey)](https://bitbucket.org/dokhlab/eprna-euclidean-parametrization-of-rna/src/master/)
-
-- **PAMNet** : ??
-
-    [![](https://img.shields.io/badge/Preprint-red?logo=Read.cv&labelColor=grey)](https://arxiv.org/abs/2210.16392) 
-    [![](https://img.shields.io/badge/Code-black?logo=GitHub&labelColor=grey)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)
 
 - **NuFold** : an adaptation of AlphaFold 2's architecture to RNAs: frame definition and vocabulary changed, auxiliary networks added and templates replaced by secondary structure (predicted).
 
