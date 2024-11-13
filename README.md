@@ -56,6 +56,11 @@ Researchers often use their own methods to build datasets, separating between tr
 
     [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.sciencedirect.com/science/article/abs/pii/S0006349523006471) 
     [![](https://img.shields.io/badge/Code-black?logo=BitBucket&labelColor=grey)](https://bitbucket.org/dokhlab/eprna-euclidean-parametrization-of-rna/src/master/)
+  
+- **DRfold** : this method uses the sequence and predicted secondary structure to predict rotation/translation matrices and geometric constraints. Both are then used to guide an optimization process that leads to the structure.
+
+    [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)]([https://www.sciencedirect.com/science/article/abs/pii/S0006349523006471](https://www.nature.com/articles/s41467-023-41303-9)) 
+    [![](https://img.shields.io/badge/Code-black?logo=Github&labelColor=grey)]([https://bitbucket.org/dokhlab/eprna-euclidean-parametrization-of-rna/src/master/](https://github.com/leeyang/DRfold))
 
 - **NuFold** : an adaptation of AlphaFold 2's architecture to RNAs: frame definition and vocabulary changed, auxiliary networks added and templates replaced by secondary structure (predicted).
 
