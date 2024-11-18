@@ -80,7 +80,8 @@ Researchers often use their own methods to build datasets, separating between tr
 
 - **AlphaFold 3** : the third iteration of Google's famous models, which includes multiple types of molecules and complexes (including RNA). It predicts atomic coordinates with a diffusion module.
 
-    [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.nature.com/articles/s41586-024-07487-w) 
+    [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.nature.com/articles/s41586-024-07487-w)
+    [![](https://img.shields.io/badge/Code-black?logo=Github&labelColor=grey)](https://github.com/google-deepmind/alphafold3)
 
 - **AutoRNA** : this method uses a VAE to predict distance matrices.
 
