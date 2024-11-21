@@ -71,6 +71,11 @@ Researchers often use their own methods to build datasets, separating between tr
 
     [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.nature.com/articles/s41467-023-42528-4)
 
+- **RoseTTAFoldNA** : an adaptation of the RoseTTAFold2 model to predict protein-nucleic acid complexes. It updates 1D, 2D and 3D molecule representations that are fed into a SE(3) transformer and a model that predicts frame and rotation angles.
+
+    [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.nature.com/articles/s41592-023-02086-5)
+    [![](https://img.shields.io/badge/Code-black?logo=Github&labelColor=grey)](https://github.com/uw-ipd/RoseTTAFold2NA)
+
 ### 📆 2024
 
 - **Deep-RNAfold** : this models predicts distance classes using an autoregressive generative model with a VAE, Monte Carlo tree search (MCTS) and a scoring model.
