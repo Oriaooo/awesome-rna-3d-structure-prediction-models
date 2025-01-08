@@ -97,3 +97,8 @@ Researchers often use their own methods to build datasets, separating between tr
 
     [![](https://img.shields.io/badge/Paper-blue?logo=Read.cv&labelColor=grey)](https://www.nature.com/articles/s41592-024-02487-0)
     [![](https://img.shields.io/badge/Code-black?logo=Github&labelColor=grey)](https://github.com/ml4bio/RhoFold)
+  
+- **Chai-1** : this model's architecture is really close to AlphaFold 3's, it predicts the structure of multiple molecules and complexes. RNA structures are predicted without MSA and one can add constraint features to guide the prediction.
+
+    [![](https://img.shields.io/badge/Preprint-red?logo=Read.cv&labelColor=grey)](https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2) 
+    [![](https://img.shields.io/badge/Code-black?logo=Github&labelColor=grey)](https://github.com/chaidiscovery/chai-lab)
